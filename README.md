@@ -1,7 +1,7 @@
 ### Hi there 👋
-#### Web application development
 
-![CodeLoop](https://github.com/4Heber/4Heber/blob/main/Code_Loop.png)
+![github-banner03](https://user-images.githubusercontent.com/77643882/195583166-f130aa85-562f-4861-ad71-3b36ab93dd0f.png)
+
 
 I'm Heber, a programming student focused on web application development.
 I enjoy learning new languages and technologies in order to progress in the world of computer science.
@@ -36,10 +36,6 @@ I like to experiment with hardware and investigate networking concepts, with int
   <!-- PYTHON -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- ARDUINO -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
   <!-- LINUX -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
